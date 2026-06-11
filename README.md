@@ -46,7 +46,8 @@ Data-driven decision-making opportunities
 
 📷 Dashboard Preview
 
-<img width="1920" height="1080" alt="img1" src="https://github.com/user-attachments/assets/906d2875-adc9-44c7-9055-bd8fe5d6a433" />
+<img width="1866" height="1055" alt="img1" src="https://github.com/user-attachments/assets/b9cd1bcf-d69b-4b71-88e0-8e7007e671b7" />
+
 
 
 💡 Learning Outcomes
